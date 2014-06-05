@@ -1,0 +1,20 @@
+{
+  "name": "polymerProject",
+  "version": "0.0.0",
+  "authors": [
+    "Martin Gutierrez <gutix007@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.2.4",
+    "core-ajax": "Polymer/core-ajax#0.2.4",
+    "core-elements": "Polymer/core-elements#~0.3.0"
+  }
+}
